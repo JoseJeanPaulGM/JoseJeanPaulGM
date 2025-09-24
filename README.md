@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Jose Guzman 👋<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Jose Guzmán<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer Java, and all the technology behind it...</h3>
 
 <ul style="list-style: none; padding: 20px; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -98,7 +98,7 @@
 
 
 --------
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📊 Estadísticas de mis repositorios publicos
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📊 Statistics of my public repositories
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=codigo04&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
@@ -109,12 +109,12 @@
 
 ---
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contacto
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contact Me :handshake:
 
-Si deseas colaborar en un proyecto o tienes alguna consulta, ¡no dudes en contactarme!
+If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="mailto:examplem@gmail.com?subject=Hola%20Francisco">
+    <a href="mailto:examplem@gmail.com?subject=Hola%20Jose">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/" target="_blank">
