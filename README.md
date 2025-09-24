@@ -36,8 +36,6 @@
 </div>
 
 
----
-
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 ---
@@ -107,16 +105,19 @@
 </div>
 
 
----
+-----
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contact Me :handshake:
 
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="https://mail.google.com/mail/u/0/#inbox">
+    <a href="mailto:examplem@gmail.com?subject=Hola%20Jose">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
+  <a href="https://github.com/JoseJeanPaulGM" target="_blank">
+    <img src="https://img.shields.io/badge/-Jose_Guzman-black?logo=github&style=flat-square" alt="github"/>
+  </a>
     <a href="https://www.linkedin.com/in/jose-guzman-miranda-239a2a273/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -125,7 +126,7 @@ If you'd like to collaborate on a project or have any questions, please don't he
    </a>
 
 
----
+-------
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" />
