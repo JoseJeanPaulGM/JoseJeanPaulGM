@@ -1,9 +1,8 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-<div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Jose Guzmán<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer Java, and all the technology behind it...</h3>
 
+<div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
+<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Jose Jean Paul<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer Java, and all the technology behind it ...</h3>
 <ul style="list-style: none; padding: 20px; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <li style="margin-bottom: 15px; font-size: 1rem; padding: 10px; background-color: #e0f7fa; border-radius: 4px; transition: background-color 0.3s;">
     🌱 I'm in constant learning (currently focusing on Spring Boot and microservices architecture).
@@ -29,12 +28,8 @@
 </ul>
 
 <div align="center">
-</div>
-
-
-<div align="center">
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h2> </h2>
 <h2>Knowledge Base :hammer_and_wrench:</h2>
-
 <h3>Back-end & Front-end</h3>
 
 <a  target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -50,8 +45,6 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-
-
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm"/></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
 
@@ -103,7 +96,7 @@
 
 -----
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contact Me :handshake:
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📩 Contact Me 
 
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
@@ -112,22 +105,20 @@ If you'd like to collaborate on a project or have any questions, please don't he
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   <a href="https://github.com/JoseJeanPaulGM" target="_blank">
-    <img src="https://img.shields.io/badge/-Jose_Guzman-black?logo=github&style=flat-square" alt="github"/>
+    <img src="https://img.shields.io/badge/-GITHUB-black?logo=github&style=flat-square" alt="github"/>
   </a>
     <a href="https://www.linkedin.com/in/jose-guzman-miranda-239a2a273/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-   <a href="https://main--frand3v.netlify.app/" target="_blank">
+   <a href="https://main--Jose.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio">
    </a>
-
 
 -------
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" />
 </p>
-
 
 --------
 
