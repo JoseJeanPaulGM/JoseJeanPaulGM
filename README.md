@@ -1,3 +1,6 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<div align="center" style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Jose Guzman<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer Java, and all the technology behind it...</h3>
 
