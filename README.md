@@ -40,7 +40,7 @@
 
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
-
+---
 <h3>Back-end & Front-end</h3>
 
 <a  target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
@@ -114,10 +114,10 @@
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="mailto:examplem@gmail.com?subject=Hola%20Jose">
+    <a href="https://mail.google.com/mail/u/0/#inbox">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/" target="_blank">
+    <a href="https://www.linkedin.com/in/jose-guzman-miranda-239a2a273/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
    <a href="https://main--frand3v.netlify.app/" target="_blank">
