@@ -29,16 +29,12 @@
 </ul>
 
 <div align="center">
-<h3>Contact Me :handshake:</h3>
-<a href="https://github.com/JoseJeanPaulGM" target="_blank"><img src="https://img.shields.io/badge/-Jose_Guzman-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/jose-guzman-miranda-239a2a273/" target="_blank"><img src="https://img.shields.io/badge/-Jose_Guzman-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<br/><br/>
 </div>
 
 
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
----
+
 <h3>Back-end & Front-end</h3>
 
 <a  target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
