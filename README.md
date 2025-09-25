@@ -88,9 +88,9 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📊 Statistics of my public repositories
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codigo04&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigo04&theme=radical" alt="Streak Stats" style="max-width: 500px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigo04&layout=compact&theme=radical" alt="Top Langs" style="max-width: 500px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/JoseJeanPaulGM&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/JoseJeanPaulGM&to=2025-08-31&theme=radical" alt="Streak Stats" style="max-width: 500px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JoseJeanPaulGM&from=2025-08-01&to=2025-08-31&layout=compact&theme=radical" alt="Top Langs" style="max-width: 500px; margin: 10px;">
 </div>
 
 
