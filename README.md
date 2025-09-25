@@ -87,12 +87,44 @@
 --------
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 📊 Statistics of my public repositories
 
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/JoseJeanPaulGM&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 500px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/JoseJeanPaulGM&to=2025-08-31&theme=radical" alt="Streak Stats" style="max-width: 500px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/JoseJeanPaulGM&from=2025-08-01&to=2025-08-31&layout=compact&theme=radical" alt="Top Langs" style="max-width: 500px; margin: 10px;">
+    <!-- Estadísticas principales -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseJeanPaulGM&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJeanPaulGM&layout=compact&theme=radical&langs_count=10" alt="Top Languages" height="180em">
 </div>
 
+<div align="center">
+    <!-- Racha de commits -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseJeanPaulGM&theme=radical" alt="GitHub Streak">
+</div>
+
+<div align="center">
+    <!-- Gráfico de actividad -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseJeanPaulGM&theme=radical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%">
+</div>
+
+<div align="center">
+    <!-- Estadísticas detalladas -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseJeanPaulGM&theme=radical" alt="Profile Details" width="100%">
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseJeanPaulGM&theme=radical" alt="Stats" height="180em">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseJeanPaulGM&theme=radical&utcOffset=-5" alt="Productive Time" height="180em">
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseJeanPaulGM&theme=radical" alt="Repos per Language" height="180em">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseJeanPaulGM&theme=radical" alt="Most Commit Language" height="180em">
+</div>
+
+<div align="center">
+    <!-- Trofeos -->
+    <img src="https://github-profile-trophy.vercel.app/?username=JoseJeanPaulGM&theme=radical&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
+</div>
+
+---
 
 -----
 
@@ -101,7 +133,7 @@
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="mailto:examplem@gmail.com?subject=Hola%20Jose">
+    <a href="mailto:j6592044@gmail.com?subject=Hola%20Jose">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   <a href="https://github.com/JoseJeanPaulGM" target="_blank">
@@ -117,7 +149,7 @@ If you'd like to collaborate on a project or have any questions, please don't he
 -------
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" />
+    <img src="https://komarev.com/ghpvc/?username=JoseJeanPaulGM&style=for-the-badge" alt="Profile views" height="25" />
 </p>
 
 --------
