@@ -133,12 +133,10 @@
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="mailto:j6592044@gmail.com?subject=Colaboración%20Profesional%20desde%20GitHub">
+    <a href="mailto:j6592044@gmail.com?subject=Hola%20José%20Jean%20Paul">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
   <a href="https://github.com/JoseJeanPaulGM" target="_blank">
     <img src="https://img.shields.io/badge/-GITHUB-black?logo=github&style=flat-square" alt="github"/>
   </a>
