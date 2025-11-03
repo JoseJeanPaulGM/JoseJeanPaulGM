@@ -133,17 +133,16 @@
 If you'd like to collaborate on a project or have any questions, please don't hesitate to contact me!
 
 <div align="center">
-    <a href="mailto:j6592044@gmail.com?subject=Hola%20José%20Jean%20Paul">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=josejeanp646@gmail.com&su=Hola%20Jos%C3%A9%20-%20Quiero%20colaborar&body=Hola%20Jos%C3%A9,%0D%0AMe%20gustar%C3%ADa%20contactarme%20contigo%20para%20colaborar.">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-
   <a href="https://github.com/JoseJeanPaulGM" target="_blank">
     <img src="https://img.shields.io/badge/-GITHUB-black?logo=github&style=flat-square" alt="github"/>
   </a>
-    <a href="https://www.linkedin.com/in/jose-guzman-miranda-239a2a273/" target="_blank">
+    <a href="https://www.linkedin.com/in//" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-   <a href="https://main--Jose.netlify.app" target="_blank">
+   <a href="https://portfoliojosejeanpaulgm.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio">
    </a>
 
